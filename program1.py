@@ -1,0 +1,5 @@
+print("Hey David, How are you?"[1])
+print("Tom and Jerry is my favourite Cartoon"[5])
+print("Hey Duo , Have you done your lessons?"[10])
+print("would you like to tell me about the address?"[-10])
+print("can you tell me why you are laughing at me?"[-5])
